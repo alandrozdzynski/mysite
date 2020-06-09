@@ -13,6 +13,8 @@ color: aqua;
 
 .returnbutton a{
     float:right;
+    padding-right: 0px;
+    
 }
 .topmenu a{
 
@@ -130,7 +132,7 @@ color: aqua;
 
     text-align: center; 
     background: white; 
-    color: #black; font-family:serif;
+    color: black; font-family:serif;
     font-size: 18px;
     padding-bottom: 20px;
 
@@ -138,14 +140,22 @@ color: aqua;
 
 .header5 {
     box-sizing: border-box; 
-    text-align: center; 
+    text-align: left; 
     background: #E8EAF6; 
     color: #3446e9; font-family: serif;
     text-align: left;
-    font-size: 30px;
+    font-size: 25px;
     padding: 50px;
     padding-left: 300px;
 
+}
+.sub_header5{
+
+    text-align: right; 
+    background: #E8EAF6; 
+    color: black; font-family:serif;
+    font-size: 18px;
+    padding-bottom: 20px;
 }
 
 .container{
@@ -171,5 +181,4 @@ color: aqua;
       font-size: 20px;
       color: white;
       
-  }
  
