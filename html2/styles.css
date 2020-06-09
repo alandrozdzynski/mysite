@@ -10,6 +10,10 @@ color: aqua;
     
 
 }
+
+.returnbutton a{
+    float:right;
+}
 .topmenu a{
 
     float: center;
@@ -105,13 +109,45 @@ color: aqua;
 }
 
 .header4 {
-    padding: 300px; 
     text-align: center; 
-    background: purple; 
-    color: yellow; font-family: Georgia, 'Times New Roman', Times, serif;
-
+    background: white; 
+    color: #3446e9; font-family: serif;
+    font-size: 60px;
+    padding-top: 50px;
 
 }
+
+.sub_header4{
+
+    text-align: center; 
+    background: white; 
+    color: #3446e9; font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding-bottom: 30px;
+
+}
+.sub_header4_1{
+
+    text-align: center; 
+    background: white; 
+    color: #black; font-family:serif;
+    font-size: 18px;
+    padding-bottom: 20px;
+
+}
+
+.header5 {
+    box-sizing: border-box; 
+    text-align: center; 
+    background: #E8EAF6; 
+    color: #3446e9; font-family: serif;
+    text-align: left;
+    font-size: 30px;
+    padding: 50px;
+    padding-left: 300px;
+
+}
+
 .container{
 
     position: relative;
